@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f185a6b3-775e-46e0-be67-75547ed25aac" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/NLPhomework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountVector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ML.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tfidf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataDispose/data_cleanning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataDispose/get_emotion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataDispose/get_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pytorch/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pytorch/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pytorch/pytorch_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pytorch/pytorch_reasoning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pytorch/pytorch_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pytorch/pytorch_train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SQL File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2p7Bp4v8koxj5eielh3S7aCOGlD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.CountVector.executor": "Run",
+    "Python.ML.executor": "Run",
+    "Python.Tfidf.executor": "Run",
+    "Python.data_cleanning.executor": "Run",
+    "Python.extract_chat_data.executor": "Run",
+    "Python.getWords.executor": "Run",
+    "Python.get_emotion.executor": "Run",
+    "Python.get_stopwords.executor": "Run",
+    "Python.get_words.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pytorch_reasoning.executor": "Run",
+    "Python.pytorch_test.executor": "Run",
+    "Python.pytorch_train.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/Py/NLPhomework/stopwords",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Py\NLPhomework\stopwords" />
+      <recent name="F:\Py\NLPhomework\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Py\NLPhomework\src\dataDispose" />
+      <recent name="F:\Py\NLPhomework\src\pytorch" />
+      <recent name="F:\Py\NLPhomework\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CountVector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLPhomework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/CountVector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLPhomework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/pytorch/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLPhomework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytorch_reasoning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLPhomework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/pytorch/pytorch_reasoning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytorch_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLPhomework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/pytorch/pytorch_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CountVector" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.pytorch_train" />
+        <item itemvalue="Python.pytorch_reasoning" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f185a6b3-775e-46e0-be67-75547ed25aac" name="更改" comment="" />
+      <created>1732107413120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732107413120</updated>
+      <workItem from="1732107414152" duration="726000" />
+      <workItem from="1732111277431" duration="131000" />
+      <workItem from="1732112081091" duration="565000" />
+      <workItem from="1732112887324" duration="3056000" />
+      <workItem from="1732115971720" duration="3412000" />
+      <workItem from="1732271576506" duration="2085000" />
+      <workItem from="1732278990023" duration="1122000" />
+      <workItem from="1732281176104" duration="382000" />
+      <workItem from="1733396948619" duration="29000" />
+      <workItem from="1733418544699" duration="116000" />
+      <workItem from="1733418745088" duration="65000" />
+      <workItem from="1733418909317" duration="4000" />
+      <workItem from="1733418936164" duration="1024000" />
+      <workItem from="1733420708743" duration="53000" />
+      <workItem from="1733549948379" duration="1877000" />
+      <workItem from="1733555363921" duration="113000" />
+      <workItem from="1733555554874" duration="1314000" />
+      <workItem from="1733920733642" duration="1333000" />
+      <workItem from="1733924679197" duration="424000" />
+      <workItem from="1733925810702" duration="2343000" />
+      <workItem from="1733967052848" duration="3681000" />
+      <workItem from="1733978707881" duration="2260000" />
+      <workItem from="1733997179426" duration="25000" />
+      <workItem from="1733997218199" duration="4138000" />
+      <workItem from="1734001842300" duration="1248000" />
+      <workItem from="1734007451970" duration="368000" />
+      <workItem from="1734008115097" duration="105000" />
+      <workItem from="1734059634794" duration="1982000" />
+      <workItem from="1734089272545" duration="189000" />
+      <workItem from="1734089527148" duration="2367000" />
+      <workItem from="1734189422231" duration="310000" />
+      <workItem from="1734235957939" duration="5520000" />
+      <workItem from="1734255297227" duration="276000" />
+      <workItem from="1734259667302" duration="236000" />
+      <workItem from="1734259920577" duration="227000" />
+      <workItem from="1734318046667" duration="1070000" />
+      <workItem from="1734324711690" duration="9000" />
+      <workItem from="1734326715596" duration="1218000" />
+      <workItem from="1734338296075" duration="33000" />
+      <workItem from="1734359755517" duration="477000" />
+      <workItem from="1734426823395" duration="67000" />
+      <workItem from="1734443274199" duration="110000" />
+      <workItem from="1734443393370" duration="184000" />
+      <workItem from="1734449255249" duration="46000" />
+      <workItem from="1734449430146" duration="683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NLPhomework$getWords.coverage" NAME="getWords 覆盖结果" MODIFIED="1733920825724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/NLPhomework$get_stopwords.coverage" NAME="get_stopwords 覆盖结果" MODIFIED="1733977963017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stopwords" />
+    <SUITE FILE_PATH="coverage/NLPhomework$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1734443517244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/pytorch" />
+    <SUITE FILE_PATH="coverage/NLPhomework$get_words.coverage" NAME="get_words 覆盖结果" MODIFIED="1734008134704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/NLPhomework$main.coverage" NAME="main 覆盖结果" MODIFIED="1734061650860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/NLPhomework$pytorch_reasoning.coverage" NAME="pytorch_reasoning 覆盖结果" MODIFIED="1734238674262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/pytorch" />
+    <SUITE FILE_PATH="coverage/NLPhomework$get_emotion.coverage" NAME="get_emotion 覆盖结果" MODIFIED="1733968230809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/NLPhomework$extract_chat_data.coverage" NAME="extract_chat_data 覆盖结果" MODIFIED="1732115668393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/NLPhomework$pytorch_train.coverage" NAME="pytorch_train 覆盖结果" MODIFIED="1734326882135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/pytorch" />
+    <SUITE FILE_PATH="coverage/NLPhomework$CountVector.coverage" NAME="CountVector 覆盖结果" MODIFIED="1734449445256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/NLPhomework$ML.coverage" NAME="ML 覆盖结果" MODIFIED="1733927087363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/NLPhomework$data_cleanning.coverage" NAME="data_cleanning 覆盖结果" MODIFIED="1733967073962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/NLPhomework$Tfidf.coverage" NAME="Tfidf 覆盖结果" MODIFIED="1733998700674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/NLPhomework$pytorch_test.coverage" NAME="pytorch_test 覆盖结果" MODIFIED="1734450107657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/pytorch" />
+  </component>
+</project>
